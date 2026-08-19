@@ -78,4 +78,4 @@ Elevando a engenharia de software do bot. Vamos aplicar arquiteturas escaláveis
 
 ---
 
-💡 *Anotem os resultados das suas pesquisas e tragam as dúvidas para os nossos encontros e tutorias ao vivo no Microsoft Teams!*
+💡 *Anotem os resultados das suas pesquisas e tragam as dúvidas para os nossos encontros*
