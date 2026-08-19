@@ -2,10 +2,10 @@ name: CI - Aulas 10 e 11 (Extração de Dados e Artefatos)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
     types: [ opened, synchronize, reopened ]
-    branches: [ "main" ]
+    branches: [ "master" ]
   workflow_dispatch: # Permite disparo manual via botão na interface
 
 jobs:

@@ -2,10 +2,10 @@ name: CI - Aulas 12 e 13 (APIs REST, SMTP Mock e Logging)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
     types: [ opened, synchronize, reopened ]
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   validacao_integracao:

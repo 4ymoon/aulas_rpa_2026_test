@@ -2,9 +2,10 @@ name: CI - AULA14 (Validação de Estrutura de Repositório)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    types: [ opened, synchronize, reopened ]
+    branches: [ "master" ]
 
 jobs:
   validar_estrutura:
