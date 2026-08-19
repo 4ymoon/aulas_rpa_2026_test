@@ -1,4 +1,4 @@
-name: CI - Aulas (Linting, PEP8 e Testes)
+name: CI - Aulas iniciais
 
 on:
   push:
