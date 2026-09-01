@@ -26,7 +26,7 @@ Crie um script `validador_transacoes.py` que:
 
 ## 🚀 Entrega
 
-1. No **seu fork**, crie uma branch a partir da `main` com o nome `lab02/SEU_RA` (ex: `lab02/123456`):
+1. No **seu fork**, crie uma branch a partir da `main` com o nome `c` (ex: `lab02/123456`):
    ```bash
    git checkout main
    git pull origin main
