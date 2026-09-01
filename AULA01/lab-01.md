@@ -8,7 +8,7 @@
 ## 💼 Desafio de Mercado
 Um analista de operações gasta cerca de 30 minutos todos os dias verificando manualmente se as variáveis de ambiente e as credenciais do sistema de faturamento estão devidamente tipadas antes de rodar os scripts de fechamento. Você foi contratado para criar um script de verificação/inicialização de variáveis de ambiente do robô.
 
----
+---1
 
 ## 📝 Enunciado (Aluno)
 
