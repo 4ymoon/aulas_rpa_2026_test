@@ -50,6 +50,7 @@ Usaremos o for para iterar sobre cada aluno. O comando pyautogui é nossa melhor
    git push origin seu repo
    ```
 4. Preencha o form com as informações solicitadas:
+   https://docs.google.com/forms/d/e/1FAIpQLScobs8AluooQSGYT-wIZSbDl2EseRKzaaTBpG7NjwDeQiENZw/viewform?usp=publish-editor
 5. Aguarde revisão do professor e Nota.
 
 ---
